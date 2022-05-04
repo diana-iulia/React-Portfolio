@@ -1,0 +1,77 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #2C0735;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+header {
+    padding: 0.7em;
+    background-color: #97DFFC;
+    color: #613DC1;
+    display: flex;
+}
+
+#topbar { 
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 0.5em;
+}
+
+#name {
+    font-size: xx-large; 
+    padding-left: 0.5em;
+}
+
+#nav {
+    background-color: #97DFFC;
+}
+
+#projects {
+    margin: 4% 2%;
+}
+
+#projects header {
+    border-radius: 7px 7px 0px 0px;
+}
+
+#aboutme {
+    margin: 5% 2%;
+}
+
+footer {
+    background-color: #858AE3;
+    font-size:2.3vmin;
+    text-align:center;
+}
+
+.prettyLink:visited {
+    color: #00487C;
+}
+
+.prettyLink:hover {
+    color: darkmagenta
+}
+
+#thanks {
+    background-color: #ABB7E9;
+    margin: 3em 1em;
+    padding: 0.6em;
+    box-shadow: 
+        rgba(240, 46, 170, 0.4) 0px 5px, 
+        rgba(240, 46, 170, 0.3) 0px 10px, 
+        rgba(240, 46, 170, 0.2) 0px 15px, 
+        rgba(240, 46, 170, 0.1) 0px 20px,
+        rgba(240, 46, 170, 0.05) 0px 25px;
+    border: 3px solid rgba(240, 46, 170, 0.9)
+        
+}
