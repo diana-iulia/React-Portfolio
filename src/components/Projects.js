@@ -47,7 +47,7 @@ export default function Projects() {
             component="img"
             image={project1}
             alt="CardMedia Image Example"
-            maxWidth="200px"
+            // maxWidth="200px"
             height="auto"
             title="CardMedia Image Example"
         />
@@ -62,7 +62,7 @@ export default function Projects() {
         >
           <Typography sx={{ width: '33%', flexShrink: 0 }}>dundun dnd <br/>(NPC Tracker)</Typography>
           <Typography sx={{ color: 'text.secondary' }}>
-            Node, Express, MySQL2 & Sequelize, Handlebars, Figma, Heroku
+            Node, Express, MySQL2 + Sequelize, Handlebars, Figma, Heroku
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
@@ -78,7 +78,7 @@ export default function Projects() {
             component="img"
             image={project2}
             alt="CardMedia Image Example"
-            maxWidth="200px"
+            // maxWidth="200px"
             height="auto"
             title="CardMedia Image Example"
         />
@@ -110,7 +110,7 @@ export default function Projects() {
             component="img"
             image={project3}
             alt="CardMedia Image Example"
-            maxWidth="200px"
+            // maxWidth="200px"
             height="auto"
             title="CardMedia Image Example"
         />

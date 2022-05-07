@@ -25,7 +25,7 @@ export default function Nav() {
         <BottomNavigationAction 
             label="About Me" 
             value="about me" 
-            id="/React-Portfolio#aboutme"
+            href="/React-Portfolio#about"
             rel="noreferrer"
             icon={<ChildCareIcon />} />
 

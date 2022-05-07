@@ -54,11 +54,11 @@ footer {
     text-align:center;
 }
 
-.prettyLink:visited {
+#prettyLink:visited {
     color: #00487C;
 }
 
-.prettyLink:hover {
+#prettyLink:hover {
     color: darkmagenta
 }
 

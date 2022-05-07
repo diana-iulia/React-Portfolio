@@ -23,7 +23,7 @@ export default function MediaCard() {
           About Me:
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Imaginative, analytical, and enthusiastic problem-solver with a relentless sense of humor. I'm deeply passionate about thorough and genuine customer service (yes, seriously) and aim to impress no matter the size of the job. If I'm not studying or slinging pizzas, you'll probably find me hanging out with fam, taking <a class='prettyLink' href='https://www.instagram.com/wo.maninthemachine/' target='_blank' rel="noreferrer">pretty pictures,</a> or giving my <a class='prettyLink' href='https://www.instagram.com/sir._.harold/' target='_blank' rel='noreferrer'>sweet stinky boy</a> belly rubs. 
+          Imaginative, analytical, and enthusiastic problem-solver with a relentless sense of humor. I'm deeply passionate about thorough and genuine customer service (yes, seriously) and aim to impress no matter the size of the job. If I'm not studying or slinging pizzas, you'll probably find me hanging out with fam, taking <a id='prettyLink' href='https://www.instagram.com/wo.maninthemachine/' target='_blank' rel="noreferrer">pretty pictures,</a> or giving my <a id='prettyLink' href='https://www.instagram.com/sir._.harold/' target='_blank' rel='noreferrer'>sweet stinky boy</a> belly rubs. 
         </Typography>
       </CardContent>
     </Card>
