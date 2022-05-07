@@ -25,14 +25,14 @@ export default function Nav() {
         <BottomNavigationAction 
             label="About Me" 
             value="about me" 
-            href="/#about"
+            id="/React-Portfolio#aboutme"
             rel="noreferrer"
             icon={<ChildCareIcon />} />
 
         <BottomNavigationAction
             label="Projects"
             value="projects"
-            href="/#projects"
+            href="/React-Portfolio#projects"
             rel="noreferrer"
             icon={<AssignmentIcon />} />
 
